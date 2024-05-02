@@ -1,0 +1,1 @@
+https://github.com/ulysses-camara/ulysses-ner-br/tree/main/annotated-corpora/PL_corpus_conll/pl_corpus_categorias
